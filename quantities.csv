@@ -1,0 +1,7 @@
+element,pieces,pieces_per_day,concrete_m3
+Foundations,28,7,25.2
+Columns,64,8,37.8
+Beams,46,8,43.6
+Floor slabs,42,4,262.7
+Walls,132,10,176.0
+Stairs,12,2,35.9
