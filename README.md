@@ -1,6 +1,6 @@
 # Site & CO₂ Planner
 
-A short Python script (about 50 lines) that takes the quantities of a precast concrete office building from my Revit model (TU Munich) and answers three questions for the site team:
+A short Python script (about 50 lines) that takes the quantities of a concrete office building from my Revit model (TU Munich), assumed to be built with precast elements, and answers three questions for the site team:
 
 | Question | Result |
 |---|---|
